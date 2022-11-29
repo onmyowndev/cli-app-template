@@ -1,2 +1,2 @@
-# odl
-operational data layer
+# template
+python project template
