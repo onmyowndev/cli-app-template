@@ -1,2 +1,2 @@
 # template
-python project template
+python console app template
